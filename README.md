@@ -42,9 +42,11 @@ The project focuses on the following analytical tasks:
 •	Aggregate functions with ordering
 •	Creation and management of database VIEWS
 SQL Queries and Analysis: include here 5-6 queries and link for the complete query script
-Execution and Output: include here the query output snapshots
+Execution and Output: include here the query output snapshots.
  *Complete SQL Query Script:*  
  **[QUERY_SQL_BRAIN_TUMOR_PROJECT.sql](QUERY_SQL_BRAIN_TUMOR_PROJECT.sql)**
+ # Query 1 - Output Screenshot
+![OUTPUT-1.png](OUTPUT-1.png)
 # 8. Key Insights Derived from Analysis
 The following insights can be derived by applying advanced SQL queries, joins, and window functions on the dataset:
 •	Tumor-wise Survival Patterns: Glioblastoma (GBM) patients exhibit significantly lower survival durations compared to low-grade tumors such as meningioma and pituitary tumors, highlighting the aggressive nature of GBM.
