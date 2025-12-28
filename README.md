@@ -47,6 +47,8 @@ Execution and Output: include here the query output snapshots.
  **[QUERY_SQL_BRAIN_TUMOR_PROJECT.sql](QUERY_SQL_BRAIN_TUMOR_PROJECT.sql)**
  # Query 1 - Output Screenshot
 ![OUTPUT-1](IMAGES/OUTPUT-1.png)
+ # Query 2 - Output Screenshot
+ ![OUTPUT-2](IMAGES/OUTPUT-2.png)
 # 8. Key Insights Derived from Analysis
 The following insights can be derived by applying advanced SQL queries, joins, and window functions on the dataset:
 •	Tumor-wise Survival Patterns: Glioblastoma (GBM) patients exhibit significantly lower survival durations compared to low-grade tumors such as meningioma and pituitary tumors, highlighting the aggressive nature of GBM.
