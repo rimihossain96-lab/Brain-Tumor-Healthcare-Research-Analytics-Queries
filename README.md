@@ -49,8 +49,6 @@ Execution and Output: include here the query output snapshots.
 ![OUTPUT-1](IMAGES/OUTPUT-1.png)
  # Query 2 - Output Screenshot
  ![OUTPUT-2](IMAGES/OUTPUT-2.png)
- # Query 3 - Output Screenshot
- ![0UTPUT-3](IMAGES/OUTPUT-3.png)
  # Query 4 - Output Screenshot
  ![OUTPUT-4](IMAGES/OUTPUT-4.png)
  # Query 5 - Output Screenshot
@@ -59,6 +57,16 @@ Execution and Output: include here the query output snapshots.
  ![OUTPUT-6](IMAGES/OUTPUT-6.png)
  # Query 7 - Output Screenshot
  ![OUTPUT-7](IMAGES/OUTPUT-7.png)
+ # Query 8 - Output Screenshot
+ ![OUTPUT-8](IMAGES/OUTPUT-8.png)
+ # Query 9 - Output Screenshot
+ ![OUTPUT-9](IMAGES/OUTPUT-9.png)
+ # Query 10 - Output Screenshot
+ ![OUTPUT-10](IMAGES/OUTPUT-10.png)
+ # Query 11 - Output Screenshot
+ ![OUTPUT-11](IMAGES/OUTPUT-11.png)
+ # Query 12 - Output Screenshot
+ ![OUTPUT-12](IMAGES/OUTPUT-12.png)
 # 8. Key Insights Derived from Analysis
 The following insights can be derived by applying advanced SQL queries, joins, and window functions on the dataset:
 •	Tumor-wise Survival Patterns: Glioblastoma (GBM) patients exhibit significantly lower survival durations compared to low-grade tumors such as meningioma and pituitary tumors, highlighting the aggressive nature of GBM.
