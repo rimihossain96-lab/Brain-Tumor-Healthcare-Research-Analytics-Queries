@@ -50,7 +50,7 @@ Execution and Output: include here the query output snapshots.
  # Query 2 - Output Screenshot
  ![OUTPUT-2](IMAGES/OUTPUT-2.png)
  # Query 3 - Output Screenshot
- ![OUTPUT-3](IMAGES/OUTPUT-3.png)
+ ![0UTPUT-3.png](IMAGES/OUTPUT-3.png)
  # Query 4 - Output Screenshot
  ![OUTPUT-4](IMAGES/OUTPUT-4.png)
  # Query 5 - Output Screenshot 
